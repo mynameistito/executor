@@ -1,0 +1,37 @@
+packages/kernel/runtime-deno-subprocess/src/index.ts
+  c21c50cd712fcf7d 86-87,89-91
+apps/local/src/web/shell.tsx
+  c21c50cd712fcf7d 276
+apps/cloud/package.json
+  c21c50cd712fcf7d 14
+scripts/clean.ts
+  c21c50cd712fcf7d 1-48
+apps/desktop/src/main.ts
+  c21c50cd712fcf7d 100-121,527
+apps/cli/src/build.ts
+  c21c50cd712fcf7d 567,620,624-629,644
+packages/plugins/file-secrets/src/index.ts
+  c21c50cd712fcf7d 12-18
+package.json
+  c21c50cd712fcf7d 56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "8fe88756f69aed155c5816b19d5152a58331da7a",
+  "prompts": {
+    "c21c50cd712fcf7d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "36cf79ce-3544-41fc-acf3-08583e178c75",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 295,
+      "total_deletions": 216,
+      "accepted_lines": 98,
+      "overriden_lines": 0
+    }
+  }
+}
