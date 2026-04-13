@@ -1,0 +1,40 @@
+apps/cli/src/commands/import.ts
+  18c8e3e049fb16fd 6-10,101-111,183-184,188,190-191,195-197,204-205,209,215-216,226
+packages/plugins/mcp/src/sdk/agent-import/reader.ts
+  18c8e3e049fb16fd 45-48
+apps/cli/package.json
+  18c8e3e049fb16fd 26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "7d9c06b367a22290e3eec554f45c72926a8daf00",
+  "prompts": {
+    "18c8e3e049fb16fd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e4cc3c3b-65ad-463d-9c59-f41084e1e07e",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 441,
+      "total_deletions": 398,
+      "accepted_lines": 441,
+      "overriden_lines": 0
+    },
+    "bbf198fa513cefa7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ddfbc6ec-42b5-4740-9bc6-0b521fbc2042",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 303,
+      "total_deletions": 360,
+      "accepted_lines": 3679,
+      "overriden_lines": 0
+    }
+  }
+}
