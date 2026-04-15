@@ -1,0 +1,45 @@
+packages/plugins/mcp/src/api/group.ts
+  bbf198fa513cefa7 153-189,276-288
+packages/plugins/mcp/src/sdk/agent-import/index.ts
+  bbf198fa513cefa7 1-19
+packages/plugins/mcp/src/api/handlers.ts
+  bbf198fa513cefa7 6,282-360
+packages/plugins/mcp/src/api/handlers-import.test.ts
+  bbf198fa513cefa7 1-553
+packages/plugins/mcp/src/sdk/agent-import/types.ts
+  bbf198fa513cefa7 1-61
+packages/plugins/mcp/src/sdk/agent-import/normalize.ts
+  bbf198fa513cefa7 1-351
+packages/plugins/mcp/package.json
+  bbf198fa513cefa7 23-24,56-58
+apps/cli/src/commands/import.ts
+  bbf198fa513cefa7 1-262
+packages/plugins/mcp/src/sdk/agent-import/reader.test.ts
+  bbf198fa513cefa7 1-474
+packages/plugins/mcp/src/sdk/agent-import/agent-import.test.ts
+  bbf198fa513cefa7 1-444
+packages/plugins/mcp/src/sdk/agent-import/reader.ts
+  bbf198fa513cefa7 1-504
+apps/cli/src/main.ts
+  bbf198fa513cefa7 44,287-293
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "553f257cbab45355d8da22d9b18b4b0d5ab707b1",
+  "prompts": {
+    "bbf198fa513cefa7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ddfbc6ec-42b5-4740-9bc6-0b521fbc2042",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 10018,
+      "total_deletions": 4676,
+      "accepted_lines": 6834,
+      "overriden_lines": 0
+    }
+  }
+}
