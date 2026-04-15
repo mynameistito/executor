@@ -1,0 +1,29 @@
+packages/kernel/runtime-deno-subprocess/src/index.test.ts
+  8a8aba15034683e0 171-172
+tests/release-bootstrap-smoke.test.ts
+  8a8aba15034683e0 250,256-258
+packages/kernel/runtime-secure-exec/src/index.test.ts
+  8a8aba15034683e0 1-2,40-41
+packages/plugins/file-secrets/src/xdg.test.ts
+  8a8aba15034683e0 2,45,59,63,89-91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "d520e0872d0e267e80ca7c439f217cf72b6951ea",
+  "prompts": {
+    "8a8aba15034683e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "612d29db-d52b-4782-8038-16812d7e2f02",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 285,
+      "total_deletions": 13,
+      "accepted_lines": 17,
+      "overriden_lines": 0
+    }
+  }
+}
