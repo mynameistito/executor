@@ -1,0 +1,40 @@
+packages/plugins/mcp/src/api/handlers.ts
+  6b9fc8531681acbe 6,282-359
+packages/plugins/mcp/src/api/group.ts
+  6b9fc8531681acbe 153-189,276-286
+packages/plugins/mcp/src/api/handlers-import.test.ts
+  6b9fc8531681acbe 1-553
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "818a8ab55e3d9db055c07b32ffcb23e7ad1992a7",
+  "prompts": {
+    "6b9fc8531681acbe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8f9febc1-f3d0-4fed-88d1-9188ef07e143",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 692,
+      "total_deletions": 1,
+      "accepted_lines": 692,
+      "overriden_lines": 0
+    },
+    "bbf198fa513cefa7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ddfbc6ec-42b5-4740-9bc6-0b521fbc2042",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 262,
+      "overriden_lines": 0
+    }
+  }
+}
