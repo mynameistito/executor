@@ -1,0 +1,52 @@
+tsconfig.json
+  0623fcb92e7f07ef 24-25
+.oxlintrc.jsonc
+  0623fcb92e7f07ef 19
+packages/plugins/mcp/src/api/handlers.ts
+  0623fcb92e7f07ef 285,292,304-305,307,315,321-322,350-356
+packages/plugins/mcp/src/sdk/agent-import/normalize.ts
+  0623fcb92e7f07ef 213,216
+.gitignore
+  0623fcb92e7f07ef 66-68
+packages/plugins/mcp/src/sdk/agent-import/agent-import.test.ts
+  0623fcb92e7f07ef 270,280,289,379-382
+apps/cli/src/commands/import.ts
+  0623fcb92e7f07ef 7,106,269,288,311
+packages/plugins/mcp/src/sdk/agent-import/reader.ts
+  0623fcb92e7f07ef 142-145,306,357,370,374,381,407,410,418,426,446,468,485,487
+packages/plugins/mcp/src/sdk/agent-import/reader.test.ts
+  0623fcb92e7f07ef 169-172,175,177,265-268,315,319
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "d811cf4acfa2c6284b53e9d1ab0cfccfcba48c2e",
+  "prompts": {
+    "0623fcb92e7f07ef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9f94bd02-7e11-4aac-8b7f-5ba247a544a8",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 14957,
+      "total_deletions": 498,
+      "accepted_lines": 12326,
+      "overriden_lines": 0
+    },
+    "c21c50cd712fcf7d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "36cf79ce-3544-41fc-acf3-08583e178c75",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
