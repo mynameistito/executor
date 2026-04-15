@@ -1,0 +1,23 @@
+packages/kernel/runtime-secure-exec/src/index.test.ts
+  8a8aba15034683e0 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "6e85d10083b64c65927d3a62cfa85a78aeda89fb",
+  "prompts": {
+    "8a8aba15034683e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "612d29db-d52b-4782-8038-16812d7e2f02",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 161,
+      "total_deletions": 162,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
