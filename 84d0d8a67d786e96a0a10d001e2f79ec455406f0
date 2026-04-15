@@ -1,0 +1,48 @@
+packages/plugins/mcp/src/sdk/agent-import/index.ts
+  bbf198fa513cefa7 1-19
+packages/plugins/mcp/src/sdk/agent-import/reader.test.ts
+  bbf198fa513cefa7 1-474
+packages/plugins/mcp/src/sdk/agent-import/agent-import.test.ts
+  bbf198fa513cefa7 1-444
+packages/plugins/mcp/package.json
+  bbf198fa513cefa7 23-24,56-58
+packages/plugins/mcp/src/sdk/agent-import/normalize.ts
+  bbf198fa513cefa7 1-351
+packages/plugins/mcp/src/sdk/agent-import/reader.ts
+  bbf198fa513cefa7 1-504
+packages/plugins/mcp/src/sdk/agent-import/types.ts
+  bbf198fa513cefa7 1-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "84d0d8a67d786e96a0a10d001e2f79ec455406f0",
+  "prompts": {
+    "6b9fc8531681acbe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8f9febc1-f3d0-4fed-88d1-9188ef07e143",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 50,
+      "overriden_lines": 0
+    },
+    "bbf198fa513cefa7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ddfbc6ec-42b5-4740-9bc6-0b521fbc2042",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 2811,
+      "overriden_lines": 0
+    }
+  }
+}
