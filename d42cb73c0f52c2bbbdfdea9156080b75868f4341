@@ -1,0 +1,38 @@
+apps/cli/src/main.ts
+  6b9fc8531681acbe 44,287-293
+apps/cli/src/commands/import.ts
+  bbf198fa513cefa7 1-262
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "d42cb73c0f52c2bbbdfdea9156080b75868f4341",
+  "prompts": {
+    "6b9fc8531681acbe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8f9febc1-f3d0-4fed-88d1-9188ef07e143",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 15,
+      "overriden_lines": 0
+    },
+    "bbf198fa513cefa7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ddfbc6ec-42b5-4740-9bc6-0b521fbc2042",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Tito",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 262,
+      "overriden_lines": 0
+    }
+  }
+}
